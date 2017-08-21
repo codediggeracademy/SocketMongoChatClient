@@ -4,10 +4,10 @@ This is experimental project for showcasing the power of Websockets in realtime 
 
 This project uses below technologies
 
-WebSockets (via Socket.io)
-NodeJS
-Express JS
-Docker (using Docker Compose)
+* WebSockets (via Socket.io)
+* NodeJS
+* Express JS
+* Docker (using Docker Compose)
 
 ## About Express
 
